@@ -1,0 +1,14 @@
+[package]
+name = "day3"
+version = "0.3.0"
+
+[dependencies]
+"failure" = "*"
+
+[[bin]]
+name = "easy"
+path = "src/easy.rs"
+
+[[bin]]
+name = "hard"
+path = "src/hard.rs"

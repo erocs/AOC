@@ -1,0 +1,14 @@
+[package]
+name = "day8"
+version = "0.8.0"
+
+[dependencies]
+"failure" = "*"
+
+[[bin]]
+name = "easy"
+path = "src/easy.rs"
+
+[[bin]]
+name = "hard"
+path = "src/hard.rs"

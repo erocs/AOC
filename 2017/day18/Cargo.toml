@@ -1,0 +1,10 @@
+[package]
+name = "day18"
+version = "0.18.0"
+
+[dependencies]
+"failure" = "*"
+
+[[bin]]
+name = "easy"
+path = "src/easy.rs"

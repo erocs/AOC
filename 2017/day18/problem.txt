@@ -38,8 +38,6 @@ What is the value of the recovered frequency (the value of the most recently pla
 
 Your puzzle answer was 9423.
 
-The first half of this puzzle is complete! It provides one gold star: *
-
 --- Part Two ---
 As you congratulate yourself for a job well done, you notice that the documentation has been on the back of the tablet this entire time. While you actually got most of the instructions correct, there are a few key differences. This assembly code isn't about sound at all - it's meant to be run twice at the same time.
 
@@ -65,3 +63,7 @@ Finally, both programs try to rcv a fourth time, but no data is waiting for eith
 It should be noted that it would be equally valid for the programs to run at different speeds; for example, program 0 might have sent all three values and then stopped at the first rcv before program 1 executed even its first instruction.
 
 Once both of your programs have terminated (regardless of what caused them to do so), how many times did program 1 send a value?
+
+Your puzzle answer was 7620.
+
+Both parts of this puzzle are complete! They provide two gold stars: **

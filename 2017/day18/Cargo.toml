@@ -8,3 +8,7 @@ version = "0.18.0"
 [[bin]]
 name = "easy"
 path = "src/easy.rs"
+
+[[bin]]
+name = "hard"
+path = "src/hard.rs"

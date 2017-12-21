@@ -1,0 +1,11 @@
+[package]
+name = "day20"
+version = "0.20.0"
+
+[dependencies]
+"failure" = "*"
+"regex" = "*"
+
+[[bin]]
+name = "easy"
+path = "src/easy.rs"

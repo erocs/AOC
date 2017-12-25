@@ -1,0 +1,9 @@
+[package]
+name = "day25"
+version = "0.25.0"
+
+[dependencies]
+
+[[bin]]
+name = "easy"
+path = "src/easy.rs"

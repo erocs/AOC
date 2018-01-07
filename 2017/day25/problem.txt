@@ -57,8 +57,6 @@ Recreate the Turing machine and save the computer! What is the diagnostic checks
 
 Your puzzle answer was 4287.
 
-The first half of this puzzle is complete! It provides one gold star: *
-
 --- Part Two ---
 The Turing machine, and soon the entire computer, springs back to life. A console glows dimly nearby, awaiting your command.
 
@@ -71,4 +69,6 @@ Star accepted.
 You must deposit 49 stars to increase your priority to the required level.
 The garbage collector winks at you, then continues sweeping.
 
-You don't have enough stars to reboot the printer, though. You need 2 more.
+If you like, you can [Reboot the Printer Again].
+
+Both parts of this puzzle are complete! They provide two gold stars: **

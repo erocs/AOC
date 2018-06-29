@@ -1,0 +1,13 @@
+[package]
+name = "day08"
+version = "0.8.0"
+
+[dependencies]
+"bit-vec" = "*"
+"failure" = "*"
+"lazy_static" = "*"
+"regex" = "*"
+
+[[bin]]
+name = "both"
+path = "src/both.rs"
